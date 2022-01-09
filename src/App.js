@@ -1,9 +1,11 @@
 import React from 'react';
+import Countbar from './components/countbar/countbar';
 
 function App() {
+
   return (
     <>
-      <h1>BRUH!!</h1>
+      <Countbar />
     </>
   );
 }
