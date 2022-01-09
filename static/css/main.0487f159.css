@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.counterMain{align-items:center;display:flex;flex-direction:column;height:100vh;justify-content:center;width:100vw}#counter{background-color:hsla(0,0%,79%,.74);border:none;border-radius:10px;height:50px;margin:10px;outline:none;text-align:center;width:50px}.changeBtn{display:flex;flex-direction:row;justify-content:space-around;margin:5px;width:20%}.btn{border:none;border-radius:10px;box-shadow:1px 1px 10px;height:50px;outline:none;transition:.5s;width:100px}.btn:hover{box-shadow:1px 1px 20px;cursor:pointer}
+/*# sourceMappingURL=main.0487f159.css.map*/
